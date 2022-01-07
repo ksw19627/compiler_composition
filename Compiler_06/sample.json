@@ -1,0 +1,100 @@
+[
+	{
+		"promo": "Say \"Bob's the best!\" at checkout for free 8oz bag of kibble."
+	},
+	{
+		"story": "\\t Once upon a time, in a far away land \\n there lived a princess."
+	},
+	{
+		"widgetInventory": 289,
+		"sadSavingsAccount": 22.59,
+		"seattleLatitude": 47.606209,
+		"seattleLongitude": -122.332071,
+		"earthsMass": 5.97219e+24
+	},
+	{
+		"freckleCount": 1,
+		"hairy": false,
+		"watchColor": null
+	},
+	{
+		"eggCarton": [
+			"egg",
+			null,
+			"egg",
+			"egg",
+			"egg",
+			"egg",
+			"egg",
+			"egg",
+			"egg",
+			"egg",
+			null,
+			"egg"
+		]
+	},
+	{
+		"test": [
+			{
+				"question": "The sky is blue",
+				"answer": true
+			},
+			{
+				"question": "The earth is flat.",
+				"answer": false
+			},
+			{
+				"question": "A cat is a dog.",
+				"answer": false
+			}
+		]
+	},
+	{
+		"$schema": "http://json-schema.org/draft-04/schema#",
+		"title": "Cat",
+		"properties": {
+			"name": {
+				"type": "string"
+			},
+			"age": {
+				"type": "number",
+				"description": "Your cat's age in years."
+			},
+			"declawed": {
+				"type": "boolean"
+			},
+			"description": {
+				"type": "string"
+			}
+		},
+		"required": [
+			"name",
+			"age",
+			"declawed"
+		]
+	},
+	{
+		"dt": 1433383200,
+		"temp": {
+			"day": 293.5,
+			"min": 293.5,
+			"max": 293.5,
+			"night": 293.5,
+			"eve": 293.5,
+			"morn": 293.5
+		},
+		"pressure": 1015.06,
+		"humidity": 98,
+		"weather": [
+			{
+				"id": 802,
+				"main": "Clouds",
+				"description": "scattered clouds",
+				"icon": "03n"
+			}
+		],
+		"speed": 2.86,
+		"deg": 134,
+		"clouds": 44
+	}
+]

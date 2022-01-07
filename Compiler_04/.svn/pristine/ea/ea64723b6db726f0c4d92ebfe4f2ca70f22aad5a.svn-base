@@ -1,0 +1,5 @@
+a = 5+3; print a-1; b = 10*a; print b
+a=1;b=a+1;c=b+1;a=c; print a; printb; print c;
+i=10;
+o=200;
+print i; print o; print i+o*a/(b-1)
